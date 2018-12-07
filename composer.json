@@ -1,0 +1,11 @@
+{
+    "name": "root/magento-test",
+    "description": "test",
+    "authors": [
+        {
+            "name": "vlad",
+            "email": "vlad.babenko@eltrino.com"
+        }
+    ],
+    "require": {}
+}
